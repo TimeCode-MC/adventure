@@ -1,0 +1,7 @@
+name: AdvGames
+author: TimeCode
+version: 1.0
+main: de.timecode.advgames.main.AdvGames
+
+commands:
+   advgames:
